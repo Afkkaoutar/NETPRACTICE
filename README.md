@@ -1,7 +1,7 @@
 
 # NETPRACTICE
 
-[Schéma réseau interactif](https://www.tldraw.com/s/v2_c_BZQbGUQUjYyFQfCE9N6sa?d=v-738.-154.1593.1649.h1bPIFNxNjnF_SzYikBjq)
+[Mon Schéma réseau interactif qui peut vous aider](https://www.tldraw.com/s/v2_c_BZQbGUQUjYyFQfCE9N6sa?d=v-738.-154.1593.1649.h1bPIFNxNjnF_SzYikBjq)
 
 ## 📡 Network
 Un ensemble d'ordinateurs et de dispositifs connectés entre eux pour échanger des données et servir l'utilisateur.
